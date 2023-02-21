@@ -1,8 +1,9 @@
 
-@import url('red-hat-display.css');
+@import url(red-hat-display.css);
 
 
 body {
+    
     background: #000;
     display:grid;
     justify-content:center;
@@ -18,23 +19,17 @@ h1 {
     text-align:center; 
 }
 p{
+    font-family: 'RedHatDisplay-Regular';
     color:white;
     
 }
 h2{
+    font-family: 'RedHatDisplay-SemiBoldItalic';
     text-align:center;
     color:white;
-    font-family: 'RedHatDisplay-SemiBold';
+    
 }
-.Containter{
-    width: 136px;
-height: 96px;
-left: 144px;
-top: 441px;
 
-background: #EEBA0B;
-border-radius: 15px;
-}
 img{
     margin:auto;
     width:400px;
@@ -54,4 +49,4 @@ a:link,
     transition:200ms;
     color: blue;
   }
-
+ 
