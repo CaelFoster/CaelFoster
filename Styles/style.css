@@ -15,5 +15,10 @@ body {
 h1 {
     font-family: 'RedHatDisplay-Bold';
     color: white;
+    text-align:center; 
+}
+p{
+    color:white;
+    
 }
 
