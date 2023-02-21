@@ -17,4 +17,9 @@
  * 
  * 
  * Code Pen 
+ * figma 
+ * netlify 
 
+## things to fix plus do
+* fix file organization
+* start some layout
