@@ -21,4 +21,37 @@ p{
     color:white;
     
 }
+h2{
+    text-align:center;
+    color:white;
+    font-family: 'RedHatDisplay-SemiBold';
+}
+.Containter{
+    width: 136px;
+height: 96px;
+left: 144px;
+top: 441px;
+
+background: #EEBA0B;
+border-radius: 15px;
+}
+img{
+    margin:auto;
+    width:400px;
+    height:400px;
+}
+a{
+    text-align:center;
+}
+a:link,
+  a:visited{
+    color: white;
+    transition:200ms;
+    text-decoration: none;
+  }
+  a:hover,
+  a:active {
+    transition:200ms;
+    color: blue;
+  }
 
