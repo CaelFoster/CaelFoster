@@ -21,6 +21,7 @@ h1 {
 p{
     font-family: 'RedHatDisplay-Regular';
     color:white;
+    padding:1em;
     
 }
 h2{
@@ -49,4 +50,6 @@ a:link,
     transition:200ms;
     color: blue;
   }
+
+  
  
