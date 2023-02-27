@@ -21,5 +21,9 @@
  * netlify 
 
 ## things to fix plus do
-* fix file organization
-* start some layout
+* tidy up my carousel
+* fix my arrows
+* adjust the images
+* add my logo 
+* work on animating the svg (change its colors)
+* fix the layout

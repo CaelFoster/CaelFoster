@@ -16,48 +16,9 @@ body {
 
 
 
-h1 {
-   
-    font-family: 'RedHatDisplay-Bold';
-    color: white;
-    text-align:center; 
-}
-p{
-   
-    font-family: 'RedHatDisplay-Regular';
-    text-align:center; 
-    color:white;
-    padding:1em;
-    
-}
-h2{
-    
-    font-family: 'RedHatDisplay-SemiBoldItalic';
-    text-align:center;
-    color:white;
-    
-}
 
-img{
-    
-    margin:auto;
-    width:400px;
-    height:400px;
-}
-a{
-    text-align:center;
-}
-a:link,
-  a:visited{
-    color: white;
-    transition:200ms;
-    text-decoration: none;
-  }
-  a:hover,
-  a:active {
-    transition:200ms;
-    color: blue;
-  }
+
+
 
   /* stinky pico has a defaulted container and thats dumb and icky and yuck*/
   .myBox{
@@ -85,6 +46,69 @@ a:link,
   border-radius: 55px;
   }
 
+/*my Image Slider*/
+
+.carousel {
+ /*border:solid 2px red;*/
+  margin:auto;
+  position: relative;
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+}
+
+.carousel img {
+  
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.carousel img.active {
+  opacity: 1;
+}
+
+.carousel button {
+  position: absolute;
+  display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  padding:auto;
+
+  /*border: solid 2px red;*/
+  background-color: transparent;
+  color: red;
+  cursor: pointer;
+  border-style: none;
+}
+
+.carousel button.prev {
+  width:90px;
+  left: 0px;
+  
+  
+}
+
+.carousel button.next {
+  width:90px;
+  right: 0px;
+  
+}
+/*
+img{
+    
+  margin:auto;
+  width:400px;
+  height:400px;
+}
+*/
+  /*socials and links*/
+
   #socialsBox{
     display:flex;
     flex-direction: row;
@@ -100,6 +124,42 @@ a:link,
     justify-content:center;
     align-content: center;
     }
-
+    
+  a{
+      text-align:center;
+  }
+  a:link,
+    a:visited{
+      color: white;
+      transition:200ms;
+      text-decoration: none;
+    }
+    a:hover,
+    a:active {
+      transition:200ms;
+      color: blue;
+    }
+/*headings*/
+    h1 {
+   
+      font-family: 'RedHatDisplay-Bold';
+      color: white;
+      text-align:center; 
+  }
+  p{
+     
+      font-family: 'RedHatDisplay-Regular';
+      text-align:center; 
+      color:white;
+      padding:1em;
+      
+  }
+  h2{
+      
+      font-family: 'RedHatDisplay-SemiBoldItalic';
+      text-align:center;
+      color:white;
+      
+  }
 
  
