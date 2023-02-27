@@ -78,13 +78,28 @@ a:link,
     height: 83vh;
     width: 86vw;
   background-color: rgba(217,217,217, 0.1);
-  mix-blend-mode: soft-light;
+ 
   display:grid;
       justify-content:center;
       align-content: center;
   border-radius: 55px;
-    
   }
+
+  #socialsBox{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+  }
+  .socials{
+    width: 268px;
+    height: 133px;
+    background:black;
+    box-shadow: -10px -11px 0px #F4E409;
+    border-radius: 15px;
+    display:grid;
+    justify-content:center;
+    align-content: center;
+    }
 
 
  
