@@ -4,16 +4,16 @@
 <path d="M1919.82 835.66C1887.82 834.664 1856.17 839.982 1826.68 851.312C1797.19 862.642 1770.44 879.762 1747.95 901.693C1725.46 923.625 1707.68 949.939 1695.61 979.134C1683.54 1008.33 1677.43 1039.83 1677.62 1071.84L1921.28 1079.43L1919.82 835.66Z" fill="#EEBA0B"/>
 </g>
 <g id="Ellipse 1" opacity="0.9" filter="url(#filter1_f_14_39)">
-<ellipse cx="115" cy="316.5" rx="253" ry="247.5" fill="#F4E409" fill-opacity="0.6"/>
+<ellipse cx="115" cy="316.5" rx="253" ry="247.5" fill="#F4E409" fill-opacity=".8"/>
 </g>
 <g id="Ellipse 2" opacity="0.8" filter="url(#filter2_f_14_39)">
-<path d="M587 612.5C587 765.207 463.878 889 312 889C160.122 889 37 765.207 37 612.5C37 459.793 160.122 336 312 336C463.878 336 587 459.793 587 612.5Z" fill="#710000" fill-opacity="0.6"/>
+<path d="M587 612.5C587 765.207 463.878 889 312 889C160.122 889 37 765.207 37 612.5C37 459.793 160.122 336 312 336C463.878 336 587 459.793 587 612.5Z" fill="#710000" fill-opacity="0.8"/>
 </g>
-<g id="Ellipse 3" opacity="0.7" filter="url(#filter3_f_14_39)">
+<g id="Ellipse 3" opacity="0.8" filter="url(#filter3_f_14_39)">
 <path d="M783 291C783 427.414 653.386 538 493.5 538C333.614 538 204 427.414 204 291C204 154.586 333.614 44 493.5 44C653.386 44 783 154.586 783 291Z" fill="#C36F09" fill-opacity="0.6"/>
 </g>
-<g id="Ellipse 4" opacity="0.25" filter="url(#filter4_f_14_39)">
-<ellipse cx="1671.5" cy="868" rx="496.5" ry="462" fill="#A63C06" fill-opacity="0.6"/>
+<g id="Ellipse 4" opacity=".3" filter="url(#filter4_f_14_39)">
+<ellipse cx="1671.5" cy="868" rx="496.5" ry="462" fill="#A63C06" fill-opacity="0.7"/>
 </g>
 </g>
 <defs>

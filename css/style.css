@@ -5,31 +5,33 @@
 body {
     
     background: #000;
-    /*background-image: url("Background.svg");*/
+    background-image: url(/Background.svg);
     display:grid;
     justify-content:center;
     align-content: center;
     height:100vh;
     
 }
-body object{
-    position:absolute;
-    z-index:0;
-}
+
+
 
 
 h1 {
+   
     font-family: 'RedHatDisplay-Bold';
     color: white;
     text-align:center; 
 }
 p{
+   
     font-family: 'RedHatDisplay-Regular';
+    text-align:center; 
     color:white;
     padding:1em;
     
 }
 h2{
+    
     font-family: 'RedHatDisplay-SemiBoldItalic';
     text-align:center;
     color:white;
@@ -37,6 +39,7 @@ h2{
 }
 
 img{
+    
     margin:auto;
     width:400px;
     height:400px;
@@ -56,5 +59,32 @@ a:link,
     color: blue;
   }
 
+  /* stinky pico has a defaulted container and thats dumb and icky and yuck*/
+  .myBox{
+    
+    height: 90vh;
+    width: 90vw;
+  background-color: rgba(217,217,217, .1);
+    display:grid;
+      justify-content:center;
+      align-content: center;
+  backdrop-filter: blur(49px);
+  /* Note: backdrop-filter has minimal browser support */
+  border-radius: 61px;
+  }
   
+  .myBox2{
+    
+    height: 83vh;
+    width: 86vw;
+  background-color: rgba(217,217,217, 0.1);
+  mix-blend-mode: soft-light;
+  display:grid;
+      justify-content:center;
+      align-content: center;
+  border-radius: 55px;
+    
+  }
+
+
  
