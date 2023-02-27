@@ -5,11 +5,16 @@
 body {
     
     background: #000;
+    /*background-image: url("Background.svg");*/
     display:grid;
     justify-content:center;
     align-content: center;
     height:100vh;
     
+}
+body object{
+    position:absolute;
+    z-index:0;
 }
 
 

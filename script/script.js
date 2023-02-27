@@ -33,3 +33,4 @@ button.addEventListener("click", (e) => {
 
 */
 ////////////////////////////////////////
+const svg_data = document.querySelector('#svg_dat').contentDocument;
