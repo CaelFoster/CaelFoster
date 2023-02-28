@@ -137,7 +137,7 @@ img{
     a:hover,
     a:active {
       transition:200ms;
-      color: blue;
+      color: #A63C06;
     }
 /*headings*/
     h1 {

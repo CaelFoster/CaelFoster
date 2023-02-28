@@ -27,3 +27,4 @@
 * add my logo 
 * work on animating the svg (change its colors)
 * fix the layout
+* add things to my socials

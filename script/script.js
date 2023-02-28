@@ -38,7 +38,7 @@ button.addEventListener("click", (e) => {
 
 
 
-  // your JavaScript code goes here
+  // carousel
 
 const carousel = document.querySelector('.carousel');
 const images = carousel.querySelectorAll('img');
@@ -70,4 +70,27 @@ nextButton.addEventListener('click', () => {
 });
 
 showImage(0);
+
+
+
+
+  //ellipse animator 
+ //dont know why this wont work, selectors are broken because the svg isnt refrenced in the html, i dont know how to change this
+ 
+
+
+const svg_data = document.getElementById("svg_dat").getSVGDocument();
+const ellipse1 = svg_data.getElementById("Ellipse 1");
+const ellipse2 = svg_data.getElementById("Ellipse 2");
+const ellipse3 = svg_data.getElementById("Ellipse 3");
+
+let hue = 0;
+
+setInterval(() => {
+  hue += 10;
+  ellipse1.style.fill = `hsl(${hue}, 80%, 50%, 0.8)`;
+  ellipse2.style.fill = `hsl(${hue + 90}, 80%, 50%, 0.8)`;
+  ellipse3.style.fill = `hsl(${hue + 180}, 80%, 50%, 0.6)`;
+}, 100);
+
 
