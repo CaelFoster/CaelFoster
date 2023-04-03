@@ -1,14 +1,11 @@
 # Cael Foster
 
 
-<blockquote>How did you find me </blockquote>
+> How did you find me 
 
 ## College
 
 currently in my jr year at college, majoring in computer science and minoring in web development
-
-
-
 
 
 ## why does this exist?
@@ -16,6 +13,12 @@ currently in my jr year at college, majoring in computer science and minoring in
 * This is my landing page, it is an academic as well as a future professional profile
 
 
+## My Links
+
+* [Github](https://github.com/CaelFoster)
+* [CodePen](https://codepen.io/cfoster19)
+* [Instagram](https://www.instagram.com/cael__foster/)
+ 
 
 
 
