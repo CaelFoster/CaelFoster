@@ -1,10 +1,31 @@
-# My Landing page
+# Cael Foster
 
-> 
+
+<blockquote>How did you find me </blockquote>
+
+## College
+
+currently in my jr year at college, majoring in computer science and minoring in web development
+
+
+
+
 
 ## why does this exist?
 
 * This is my landing page, it is an academic as well as a future professional profile
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Citations
 
