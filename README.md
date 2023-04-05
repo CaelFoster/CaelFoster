@@ -20,10 +20,7 @@ currently in my jr year at college, majoring in computer science and minoring in
 * [Instagram](https://www.instagram.com/cael__foster/)
  
 
-
-
-
-
+![Visitor Count](https://profile-counter.glitch.me/{CaelFoster}/count.svg)
 
 
 
