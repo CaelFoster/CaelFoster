@@ -2,7 +2,10 @@
 
 
 > How did you find me 
-[img](Faveicons And images/logo-1.png)
+
+<!-- [img](Faveicons And images/logo-1.png) -->
+<img src="Faveicons And images/logo-1.png" alt="logo">
+
 ## College
 
 currently in my jr year at college, majoring in computer science and minoring in web development
