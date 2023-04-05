@@ -4,7 +4,7 @@
 > How did you find me 
 
 <!-- [img](Faveicons And images/logo-1.png) -->
-<img src="Faveicons And images/logo-1.png" alt="logo">
+<img display = "flex" justify-content = "center" src="Faveicons And images/logo-1.png" alt="logo">
 
 ## College
 
