@@ -2,7 +2,7 @@
 
 
 > How did you find me 
-<!-- ![img](link) -->
+[img](Faveicons And images/logo-1.png)
 ## College
 
 currently in my jr year at college, majoring in computer science and minoring in web development
