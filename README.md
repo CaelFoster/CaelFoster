@@ -10,7 +10,7 @@
 
 ## College
 
-<p> currently in my jr year at college, majoring in computer science and minoring in web development</p>
+  I'm still in college and am currently working towards a degree in computer science. I would like to gain more experience working with HTML, JavaScript, and CSS for future opportunities and I'm actively looking for internship opportunities. I will be minoring in WebDesign and will be graduating in the next 7 Quarters (~2 years). 
 
 
 ## why does this exist?
