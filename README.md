@@ -7,9 +7,10 @@
 <p align="center">
 <img src="Faveicons And images/logo-1.png" alt="logo">
 </p>
+
 ## College
 
-currently in my jr year at college, majoring in computer science and minoring in web development
+<p> currently in my jr year at college, majoring in computer science and minoring in web development</p>
 
 
 ## why does this exist?
