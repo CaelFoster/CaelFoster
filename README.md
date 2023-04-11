@@ -1,4 +1,4 @@
-# Cael Foster
+<h1 align="center"> Cael Foster </h1>
 
 
 > How did you find me 
@@ -11,7 +11,6 @@
 ## College
 
   I'm still in college and am currently working towards a degree in computer science. I would like to gain more experience working with HTML, JavaScript, and CSS for future opportunities and I'm actively looking for internship opportunities. I will be minoring in WebDesign and will be graduating in the next 7 Quarters (~2 years). 
-
 
 ## why does this exist?
 
@@ -28,6 +27,11 @@
 ### visits :)    
 
 ![Visitor Count](https://profile-counter.glitch.me/{CaelFoster}/count.svg)
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
