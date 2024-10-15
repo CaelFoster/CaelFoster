@@ -1,8 +1,6 @@
 <h1 align="center"> Cael Foster </h1>
 
 
-> How did you find me 
-
 <!-- [img](Faveicons And images/logo-1.png) -->
 <p align="center">
 <img src="Faveicons And images/logo-1.png" alt="logo">
