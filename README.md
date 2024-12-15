@@ -24,12 +24,11 @@ every day at what I do and I'm excited to see where my career takes me.
 
 ## My Projects
 
-Most of the things I work on are private and not owned by me but the clients I work with, here are some of the things I have worked on.
-Theyre not incredible but theyre where I started.
+Some pages that I've made for some companies in the past 
 
 - [LandingPage](https://github.com/CaelFoster/CaelFoster.github.io)
-- [VScodeTheme](https://github.com/CaelFoster/spring-theme)
-- [KeyboardIDidntFinish](https://github.com/CaelFoster/KeyboardPiano)
+- [WhitmanCounty]([https://github.com/CaelFoster/spring-theme](https://whitmancountypublichealth.org/environmental-health/hazards-and-toxics/extreme-heat))
+- [RevX]([https://github.com/CaelFoster/KeyboardPiano](https://www.gorevolutionx.com/articles/))
 
 ### visits :)
 
