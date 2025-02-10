@@ -41,13 +41,13 @@ Some pages that I've made for some companies in the past
 ## Citations
 
 - @license
-
+-
 - Font Family: Red Hat Display
 - Designed by: MCKL, Jeremy Mickel
 - URL: https://www.fontshare.com/fonts/red-hat-display
 - © 2023 Indian Type Foundry
-
-
+-
+-
 - Code Pen
 - figma
 - netlify
