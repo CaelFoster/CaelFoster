@@ -7,9 +7,7 @@
 
 ## College UPDATE
 
-Im nearing my last 2 quarters here at eastern university, I came here to persue a degree in computer science with a minor in web development,
-So far i've finished my minor and am now more focused on front and backend development than I am on software engineering. I'm getting better
-every day at what I do and I'm excited to see where my career takes me.
+Finished college :D
 
 ## why does this exist?
 
