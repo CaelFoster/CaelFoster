@@ -1,9 +1,9 @@
 <h1 align="center"> Cael Foster </h1>
 
 <!-- [img](Faveicons And images/logo-1.png) -->
-<p align="center">
+<!-- <p align="center">
 <img src="Faveicons And images/logo-1.png" alt="logo">
-</p>
+</p> -->
 
 ## College UPDATE
 
@@ -58,3 +58,4 @@ Some pages that I've made for some companies in the past
 - work on animating the svg (change its colors)
 - fix the layout
 - add things to my socials
+
