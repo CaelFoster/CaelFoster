@@ -31,9 +31,6 @@ Some pages that I've made for some companies in the past
 - [RevX]((https://www.gorevolutionx.com/articles/))
 
 
-## Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CaelFoster)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
